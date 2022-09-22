@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from asyncore import read
 import configparser, urllib.parse, xml.etree.ElementTree
 
